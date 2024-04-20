@@ -97,7 +97,9 @@ img{
   color: var(--first-color);
   margin-bottom: var(--mb-3);
   text-align: center;
+  text-decoration: underline;
 }
+
 
 .section-subtitle{
   display: block;
