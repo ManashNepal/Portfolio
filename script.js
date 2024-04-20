@@ -38,3 +38,11 @@ function scrollActive(){
     }
   });
 }
+
+// Typed Animation
+const typed = new Typed(".auto-typed",{
+  strings : ["Content Writer", "Graphic Designer", "Backend Developer", "App Developer"],
+  typeSpeed : 150,
+  backSpeed : 150,
+  loop: true
+});
